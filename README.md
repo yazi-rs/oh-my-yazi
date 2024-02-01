@@ -4,5 +4,6 @@ Explore the possibilities of the Yazi plugin system, and provide some experiment
 
 ## Previewers
 
-[Glow.yazi](https://github.com/Reledia/glow.yazi): glow integration for markdown files;
-[Miller.yazi](https://github.com/Reledia/miller.yazi): miller integration for csv files;
+[Glow.yazi](https://github.com/Reledia/glow.yazi): glow integration for markdown files
+
+[Miller.yazi](https://github.com/Reledia/miller.yazi): miller integration for csv files
