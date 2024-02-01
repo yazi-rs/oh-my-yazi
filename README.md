@@ -6,4 +6,4 @@ Explore the possibilities of the Yazi plugin system, and provide some experiment
 
 [Glow.yazi](https://github.com/Reledia/glow.yazi): glow integration for markdown files
 
-[Miller.yazi](https://github.com/Reledia/miller.yazi): miller integration for csv files
+[Miller.yazi](https://github.com/Reledia/miller.yazi): miller integration for csv (and other supported format) files
